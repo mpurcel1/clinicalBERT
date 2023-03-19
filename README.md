@@ -7,7 +7,7 @@ tags:
 <!-- Provide a quick summary of what the model is/does. -->
 
 This model card describes the ClinicalBERT model, which was trained on a large multicenter dataset with a large corpus of 1.2B words of diverse diseases we constructed.
-We then utilized a large-scale corpus of EHRs from over 3 million pediatric outpatient records to fine tune the base language model.
+We then utilized a large-scale corpus of EHRs from over 3 million patient records to fine tune the base language model.
 
 ## Pretraining Data
 
