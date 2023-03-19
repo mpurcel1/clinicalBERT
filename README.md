@@ -22,8 +22,7 @@ special tokens for masking, and then require the model to predict the original t
 
 ### Pretraining Hyperparameters
 
-We used a batch size of xx, a maximum sequence length of xx, and a learning rate of xx for pre-training our models. 
-The model was trained for xx steps. 
+We used a batch size of 32, a maximum sequence length of 256, and a learning rate of 5e-5 for pre-training our models. 
 
 ## How to use the model
 
